@@ -1,9 +1,9 @@
 # Multimodal Influencer Content on Twitter
-This repository is associated with the research paper titled [A Multimodal Analysis of Influencer Content on Twitter](https://arxiv.org/pdf/2309.03064.pdf)
+This repository is associated with the research paper titled [A Multimodal Analysis of Influencer Content on Twitter](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)
 
 __Paper__
 
-D. Sanchez Villegas, C. Goanta and N. Aletras (2023). A Multimodal Analysis of Influencer Content on Twitter. AACL
+D. Sanchez Villegas, C. Goanta and N. Aletras (2023). A Multimodal Analysis of Influencer Content on Twitter. AACL **Best Area Chair Award - Society & NLP**
 
 🌿 Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. 
 
