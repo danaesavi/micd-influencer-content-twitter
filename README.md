@@ -32,8 +32,8 @@ To comply with [Twitter's policy](https://developer.twitter.com/en/develop) (now
 - split: (str) the split that it belongs to (train/dev/test) 
 
 Tweets were retrieved in August 2021 via the Academic Twitter API. 
-For research purposes you can contact us danaesavi@gmail.com
 
+For research purposes, you can get access to the full dataset by filling out [this form](https://forms.gle/7G4EmkRp1X2sZR1v8)
 
 
 
