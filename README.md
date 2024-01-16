@@ -32,7 +32,7 @@ To comply with [Twitter's policy](https://developer.twitter.com/en/develop) (now
 - split: (str) the split that it belongs to (train/dev/test) 
 
 Tweets were retrieved in August 2021 via the Academic Twitter API. 
-For research purposes you can contact us dsanchezvillegas1@sheffield.ac.uk
+For research purposes you can contact us danaesavi@gmail.com
 
 
 
